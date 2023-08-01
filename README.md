@@ -1,1 +1,1 @@
-# mini-dark-mode
+**# Hola!** este es un ejercicio que utilicé como ejemplo para un post que publiqué en Medium: La Utilidad de los data attributes en HTML5 lo puedes leer acá: [La Utilidad de los data attributes en HTML5](https://medium.com/@krisimr37/la-utilidad-de-los-data-attributes-en-html5-f4b06d3115e2)
